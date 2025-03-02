@@ -1,0 +1,13 @@
+title: YEET
+originalAuthor: danimalforlife
+description: Fixes genie
+dependencies: 
+assets:
+
+
+###Genie Summon Voice###
+- name: remastered/obj/P_AL010.a.us/se/obj
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: genie/genie
