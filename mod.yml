@@ -6,7 +6,7 @@ assets:
 
 
 ###Genie Summon Voice###
-- name: remastered/obj/P_AL010.a.us/se/obj
+- name: remastered/obj/P_AL010.a.us/se/obj/se597
   package: kh2_sixth
   method: copy
   source:
